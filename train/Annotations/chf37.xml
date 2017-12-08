@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>chf37.jpg</filename>
+	<path>/home/mesmer/darkflow/train/Images/chf37.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>closedhandfront</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>34</xmin>
+			<ymin>46</ymin>
+			<xmax>347</xmax>
+			<ymax>333</ymax>
+		</bndbox>
+	</object>
+</annotation>

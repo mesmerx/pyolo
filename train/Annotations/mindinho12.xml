@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>mindinho12.jpg</filename>
+	<path>/home/mesmer/darkflow/train/Images/mindinho12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>400</width>
+		<height>347</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>mindinho</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>111</ymin>
+			<xmax>115</xmax>
+			<ymax>212</ymax>
+		</bndbox>
+	</object>
+</annotation>
